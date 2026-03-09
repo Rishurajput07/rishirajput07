@@ -1,0 +1,5 @@
+MONGODB_URI=mongodb://localhost:27017/divya_public_school
+PORT=3000
+JWT_SECRET=divya_school_secret_key_2026
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=dps2026
